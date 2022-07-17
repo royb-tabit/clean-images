@@ -1,0 +1,7 @@
+{
+  "name": "clean-images",
+  "version": "1.0.0",
+  "dependencies": {
+    "@aws-sdk/client-ecr": "^3.131.0"
+  }
+}
